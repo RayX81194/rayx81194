@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1>Hi 👋, I'm Manish</h1>
+<h3>A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayx81194&label=Profile%20views&color=0e75b6&style=flat" alt="rayx81194" /> </p>
 
