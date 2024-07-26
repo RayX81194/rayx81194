@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayx81194&label=Profile%20views&color=0e75b6&style=flat" alt="rayx81194" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, NextJS**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://rayx81194.github.io/](https://rayx81194.github.io/)
 
